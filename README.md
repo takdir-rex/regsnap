@@ -2,7 +2,7 @@
 
 Region-based Sub Snapshot and recovery based on Apache Flink.
 
-This repo is cloned from https://github.com/apache/flink/tree/release-1.14 and modified to realize our research objective.
+This repository was developed from https://github.com/apache/flink/tree/release-1.14 and modified to realize our research objective.
 
 # Features
 * Defines a custom snapshot group/region of adjacent pipelined operators 
